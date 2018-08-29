@@ -1,4 +1,4 @@
-module Players
+module Concerns
   class Human < Player
   end 
 end
